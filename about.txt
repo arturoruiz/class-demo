@@ -1,3 +1,5 @@
 	This is some information about the project
 
-It's different from the readme, it discuss information of the project
+It's different from the README, it discuss information of the project.
+
+This was created by ArturoRuiz
